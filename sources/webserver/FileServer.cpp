@@ -31,7 +31,6 @@
 #include <QFileInfo>
 #include <QHash>
 #include <QList>
-#include <QMimeDatabase>
 #include <QPair>
 #include <QResource>
 #include <QSslCertificate>
